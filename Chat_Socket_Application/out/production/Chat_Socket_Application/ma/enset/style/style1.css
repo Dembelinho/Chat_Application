@@ -1,0 +1,15 @@
+.root{
+    -fx-background-image: url("bckg2.jpg");
+    -fx-background-repeat: no-repeat;
+    /*-fx-background-size: cover,auto;*/
+    -fx-background-size: cover ;
+}
+.button{
+    -fx-background-color: #0c3fbe;
+
+    -fx-text-fill: white;
+}
+.button:hover{
+    -fx-text-fill: white;
+    -fx-background-color: #b2b6da;
+}
